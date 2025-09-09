@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    border: 0;
+}
+
+.card_main{
+    margin: ;
+    border: 2px;
+    padding-top: ;
+    padding-left: ;
+    padding-right: ;
+    padding-bottom: ;
+}
+
+.organiza{
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    
+    border: 2px solid purple;
+
+    padding-top: 25px;
+    padding-left: 220px;
+    padding-right: 220px;
+    padding-bottom: 25px;
+    gap: 30px;
+
+}
+.organiza1 {
+    display: flex;
+    flex-direction: row;
+}
